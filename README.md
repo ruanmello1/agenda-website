@@ -11,11 +11,9 @@ Projeto Agenda para salvar contatos online. Crie sua conta ou faça login e cada
 Utilizado: JavaScript, HTML5, CSS3, Node.JS, Express e MongoDB como base de dados.
 
 
-## Imagens
-Link com mais imagens do projeto: https://imgur.com/a/BiBcZCX
+## Site
 
-Base de dados: https://i.imgur.com/22zy9fU.png
-
+Para visitar o site, acesse: https://agenda.projetosruanmello.com/
 
 
 ## License
