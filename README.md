@@ -8,7 +8,7 @@ Crie sua conta, salve e gerencie seus contatos online!
 
 Projeto Agenda para salvar contatos online. Crie sua conta ou faça login e cadastre seus contatos, de forma simples e objetiva.
 
-Utilizado: JavaScript, HTML5, CSS3, Node.JS, Express e MongoDB como base de dados.
+Linguagens: JavaScript, HTML5, CSS3 e MongoDB.
 
 
 ## Site
